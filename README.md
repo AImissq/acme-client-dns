@@ -11,4 +11,4 @@ Create a .env file in the root directory of the project with the following conte
 EMAIL='your-email@example.com'  all without quotes
 DOMAIN='yourdomain.com'
 
-Tested and working on ubuntu 29.04
+Tested and working on ubuntu 20.04
